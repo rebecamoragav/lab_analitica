@@ -1,0 +1,3 @@
+id, edad, ingreso, estado
+1, 25, 3500, "activo"
+  2, 40, 6000, "inactivo"
